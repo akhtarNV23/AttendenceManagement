@@ -1,0 +1,3 @@
+export const MAKE_REQUESR= "MAKE_REQUESR"
+export const FAIL_REQUESR= "MAKE_REQUESR"
+export const GET_STUDENT_LIST= "GET_STUDENT_LIST"
